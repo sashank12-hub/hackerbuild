@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hackerbuild/static/css/main.2a12214b.chunk.css",
+    "main.js": "/hackerbuild/static/js/main.4fc2e9cc.chunk.js",
+    "main.js.map": "/hackerbuild/static/js/main.4fc2e9cc.chunk.js.map",
+    "runtime~main.js": "/hackerbuild/static/js/runtime~main.b99ad347.js",
+    "runtime~main.js.map": "/hackerbuild/static/js/runtime~main.b99ad347.js.map",
+    "static/js/2.f251fc04.chunk.js": "/hackerbuild/static/js/2.f251fc04.chunk.js",
+    "static/js/2.f251fc04.chunk.js.map": "/hackerbuild/static/js/2.f251fc04.chunk.js.map",
+    "index.html": "/hackerbuild/index.html",
+    "precache-manifest.3ddc8c5173ed716a5b6d09672341a78a.js": "/hackerbuild/precache-manifest.3ddc8c5173ed716a5b6d09672341a78a.js",
+    "service-worker.js": "/hackerbuild/service-worker.js",
+    "static/css/main.2a12214b.chunk.css.map": "/hackerbuild/static/css/main.2a12214b.chunk.css.map"
+  }
+}
